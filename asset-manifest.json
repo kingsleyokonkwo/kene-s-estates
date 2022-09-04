@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kene-s-estates/static/css/main.f6770468.css",
+    "main.css": "/kene-s-estates/static/css/main.74370c3f.css",
     "main.js": "/kene-s-estates/static/js/main.07fb52ff.js",
     "static/media/House1.jpg": "/kene-s-estates/static/media/House1.02b46e2f87dffec2e9d9.jpg",
     "static/media/House3.jpg": "/kene-s-estates/static/media/House3.dc3a2969c4669525eafb.jpg",
@@ -10,11 +10,11 @@
     "static/media/phone.png": "/kene-s-estates/static/media/phone.60a02eb41b60bde5949b.png",
     "static/media/key.png": "/kene-s-estates/static/media/key.cf988d3b61a4f398306a.png",
     "index.html": "/kene-s-estates/index.html",
-    "main.f6770468.css.map": "/kene-s-estates/static/css/main.f6770468.css.map",
+    "main.74370c3f.css.map": "/kene-s-estates/static/css/main.74370c3f.css.map",
     "main.07fb52ff.js.map": "/kene-s-estates/static/js/main.07fb52ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6770468.css",
+    "static/css/main.74370c3f.css",
     "static/js/main.07fb52ff.js"
   ]
 }
