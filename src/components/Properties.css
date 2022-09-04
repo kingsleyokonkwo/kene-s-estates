@@ -1,6 +1,7 @@
 .properties {
     padding: 6rem;
     background-color: var(--background);
+    transition: all 0.5s;
 }
 
 .title {

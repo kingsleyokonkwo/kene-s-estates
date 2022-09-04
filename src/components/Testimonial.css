@@ -1,6 +1,7 @@
 .testimonial {
     padding: 0 6rem 10rem;
     background-color: var(--background);
+    transition: all 0.5s;
 }
 
 .testimony--container {
